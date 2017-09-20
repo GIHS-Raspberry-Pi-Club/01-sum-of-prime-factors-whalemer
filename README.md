@@ -1,4 +1,4 @@
-## Code Challenge, April 5th 2017 
+## [Challenge] Sum of Prime Factors
 
 For this week's challenge: 
 
