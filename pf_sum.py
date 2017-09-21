@@ -16,6 +16,10 @@ def pf_sum(n):
             n = n/i
     if n>2:
         factors.append(int(n))
-
-    return reduce(lambda a,b: a+b, factors)
+		
+    acc = 0
+    for i in factors:
+        acc += i
+    
+    return acc
 
